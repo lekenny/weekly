@@ -3,4 +3,4 @@
 # 来源
 [周刊参考池](https://github.com/lekenny/weekly/issues/1)
 # 鸣谢
-本项目参考 [dt-fe/weekly](git@github.com:dt-fe/weekly.git)
+本项目参考 [dt-fe/weekly](https://github.com/dt-fe/weekly.git)
