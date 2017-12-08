@@ -1,5 +1,7 @@
 # 精读周刊
 每周从海量文章中精选一篇文章精读
+
+[周刊预告](https://github.com/lekenny/weekly/issues/2)
 # 来源
 [周刊参考池](https://github.com/lekenny/weekly/issues/1)
 # 鸣谢
